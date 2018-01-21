@@ -1,0 +1,10 @@
+/Volumes/Research/Projects/c-7outvariabledemo/bin/Debug/netcoreapp2.0/c-7outvariabledemo.deps.json
+/Volumes/Research/Projects/c-7outvariabledemo/bin/Debug/netcoreapp2.0/c-7outvariabledemo.runtimeconfig.json
+/Volumes/Research/Projects/c-7outvariabledemo/bin/Debug/netcoreapp2.0/c-7outvariabledemo.runtimeconfig.dev.json
+/Volumes/Research/Projects/c-7outvariabledemo/bin/Debug/netcoreapp2.0/c-7outvariabledemo.dll
+/Volumes/Research/Projects/c-7outvariabledemo/bin/Debug/netcoreapp2.0/c-7outvariabledemo.pdb
+/Volumes/Research/Projects/c-7outvariabledemo/obj/Debug/netcoreapp2.0/c-7outvariabledemo.csproj.CoreCompileInputs.cache
+/Volumes/Research/Projects/c-7outvariabledemo/obj/Debug/netcoreapp2.0/c-7outvariabledemo.AssemblyInfoInputs.cache
+/Volumes/Research/Projects/c-7outvariabledemo/obj/Debug/netcoreapp2.0/c-7outvariabledemo.AssemblyInfo.cs
+/Volumes/Research/Projects/c-7outvariabledemo/obj/Debug/netcoreapp2.0/c-7outvariabledemo.dll
+/Volumes/Research/Projects/c-7outvariabledemo/obj/Debug/netcoreapp2.0/c-7outvariabledemo.pdb
